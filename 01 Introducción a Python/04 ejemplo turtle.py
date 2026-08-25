@@ -1,0 +1,10 @@
+import turtle as t
+t.forward(100)
+t.left(45)
+t.forward(100)
+t.left(45)
+t.forward(100)
+t.left(45)
+t.forward(100)
+t.left(45)
+t.mainloop()
