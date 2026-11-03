@@ -1,0 +1,5 @@
+print("Hola \"mundo\"")
+print('Hola \'mundo\'')
+print("Hola\nmundo")
+print("Hola\tmundo")
+print("Diagonal invertida: \\")
