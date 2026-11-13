@@ -18,6 +18,8 @@ print(f"Elemento elminado: {eliminado}")
 print(lista)
 del lista[0]
 print(lista)
+lista.remove(4) # Elimina la primera ocurrencia de este elemento
+print(lista)
 # Extend
 lista1 = [1,2,3]
 lista2 = [4,5,6]
